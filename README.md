@@ -13,14 +13,6 @@ Bluetooth LE (BLE)
 - [x] LEGO Education SPIKE Essential Hub
 - [x] General LEGO BLE Device
 
-Bluetooth Classic (SPP)
-- [x] LEGO Education SPIKE Prime Hub (Legacy) <- Not working on Windows
-- [ ] LEGO MINDSTORMS Robot Inventor Hub
-
-## Scratch 3.0 installed LEGO Bluetooth extensions
-- https://bricklife.com/scratch-gui/ (Stable version)
-- https://bricklife.com/scratch-lego-bluetooth-extensions/ (Development version)
-
 ## Xcratch
 [Xcratch](https://xcratch.github.io) is an extendable Scratch programming environment. You can load LEGO Bluetooth extensions into Xcratch from the following URLs:
 - LEGO Powered UP Hub https://bricklife.com/scratch-gui/xcratch/poweredup.mjs
